@@ -1,0 +1,10 @@
+name="Aniket"
+print(type(name))
+age=17
+print(type(age))
+percentage=87.5
+print(type(percentage))
+is_student=True
+print(type(is_student))
+Grade='A'
+print(type(Grade))
