@@ -1,3 +1,4 @@
+
 name="Aniket"
 print(type(name))
 age=17
