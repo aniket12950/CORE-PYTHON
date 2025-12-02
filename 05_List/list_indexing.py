@@ -1,0 +1,10 @@
+list= list(range(1,11))
+print(list)
+print("First element of list:", list[0])
+print("Last element of list:", list[-1])    
+print("Element at index 4:", list[4])
+print("Substring from index 2 to 5:", list[2:6])
+print("Substring from index 5 to end:", list[5:])
+print("Substring from start to index 5:", list[:6])
+print("Substring with step 2 from index 0 to 10:", list[0:11:2]) #list[start:end:step]
+print("Reversed list using slicing:", list[::-1])
