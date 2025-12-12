@@ -3,6 +3,7 @@ text = input("Enter a string: ")
 original_text = text
 reversed_text = text[::-1]
 
+
 print("Reversed String:", reversed_text)
 
 if original_text == reversed_text:
