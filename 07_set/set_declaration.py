@@ -1,11 +1,9 @@
 set1 = {8, 1, 23, 45, 67}
 print(set1)
 print(type(set1))
-
 set2 = {"apple", "banana", "cherry"}
 print(set2)
 print(len(set1))
-
 set1.add("orange")
 print(set1)
 
