@@ -6,3 +6,8 @@ for i in arr:
         max_val = i
 print("Maximum value:", max_val)
 
+min_val=arr[0]
+for j in arr:
+    if j < min_val:
+        min_val = j
+print("minimum value",min_val)
