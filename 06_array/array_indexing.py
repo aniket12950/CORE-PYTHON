@@ -2,6 +2,8 @@ import numpy as np
 # Creating a NumPy array
 arr = np.array([10, 20, 30, 40, 50, 60, 70, 80, 90])
 print("Array elements:", arr)
+
+
 # Accessing elements using indexing
 print("First element of array:", arr[0])
 print("Last element of array:", arr[-1])
