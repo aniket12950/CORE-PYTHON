@@ -1,0 +1,4 @@
+Python is powerful.
+I love Python programming.
+Python is used in data science.
+Java is also popular.
